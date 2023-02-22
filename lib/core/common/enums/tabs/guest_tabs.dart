@@ -1,0 +1,4 @@
+enum GuestTabs {
+  stations,
+  profile,
+}
